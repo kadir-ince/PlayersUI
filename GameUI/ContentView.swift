@@ -26,7 +26,7 @@ struct Home: View {
     var body: some View {
         VStack {
             HStack {
-                Text("Your Players")
+                Text("  Players")
                     .font(.title)
                     .fontWeight(.bold)
                     .foregroundColor(.white)
@@ -118,7 +118,7 @@ struct Card: View {
                 Spacer(minLength: 0)
 
                 Button(action: {}) {
-                    Text("See Details")
+                    Text("Buy Now")
                         .font(.headline)
                         .foregroundColor(.white)
                         .padding(.vertical, 10)
