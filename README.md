@@ -7,7 +7,7 @@ Simple UI For Buy The Game Player
 ![GitHub repo size](https://img.shields.io/github/repo-size/kadir-ince/PlayersUI)
 
 
-<img height=630 src="https://github.com/kadir-ince/PlayersUI/blob/main/game.png" alt="What's like?">
+<img height=760 src="https://github.com/kadir-ince/PlayersUI/blob/main/game.png" alt="What's like?">
 
 
 ## How Can I Open On My Mac?  🔨
